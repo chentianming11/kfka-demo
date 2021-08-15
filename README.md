@@ -1,2 +1,0 @@
-# kfka-demo
-kfka-demo
